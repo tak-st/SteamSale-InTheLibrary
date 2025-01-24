@@ -1,1 +1,1 @@
-PySimpleGUI<=4.70.1
+PySimpleGUI<=5.0.8
